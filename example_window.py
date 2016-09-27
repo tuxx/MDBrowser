@@ -6,7 +6,6 @@ import sys
 from PyQt4.QtWebKit import QWebView
 from PyQt4.QtGui import QApplication
 from PyQt4.QtCore import QUrl
-from BeautifulSoup import BeautifulSoup
 from markdown import markdown
 
 
